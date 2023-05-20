@@ -2,9 +2,9 @@
 
 ### MENU
 
-- [TO-DO LIST](#TO-DO LIST)
+- [TO-DO LIST](#to-do-list)
 
-- [HOW TO USE](#HOW TO USE)
+- [HOW TO USE](#how-to-use)
 
 ### HOW TO USE
 
